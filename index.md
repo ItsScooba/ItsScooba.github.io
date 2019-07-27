@@ -1,7 +1,7 @@
 ## Code Reviews
 
-- [Link](https://youtu.be/5lNNDTTOe18)
-- [Link](https://youtu.be/_i8RzdHYYhY)
+- [Link](https://youtu.be/5lNNDTTOe18) Part One
+- [Link](https://youtu.be/_i8RzdHYYhY) Part Two
 
 
 
