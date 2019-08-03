@@ -1,9 +1,24 @@
+## Entry for Algorithms & Data Structures
+
+- [Link to Binary Search Tree Code](BinarySearchTree.cpp)
+- [Link to Hash Table Code](HashTable.cpp)
+- [Link to Vector Code](VectorSorting.cpp)
+- [Link to Linked List Code](LinkedList.cpp)
+- [Link to Reflection](FINAL_PortfolioReflection.docx)
+- [Link to Narrative](MilestoneThree.docx)
+
+<br/>
+<br/>
+
+
+
 ## Entry for Software Design & Engineering
 
 - [Link to Code](main.cpp)
 - [Link to Narrative](MilestoneTwo.docx)
 
-
+<br/>
+<br/>
 
 
 ## Code Reviews
@@ -11,8 +26,9 @@
 - [Link](https://youtu.be/5lNNDTTOe18) Part One
 - [Link](https://youtu.be/_i8RzdHYYhY) Part Two
 
-
-
+<br/>
+<br/>
+<br/>
 
 
 ## Welcome to GitHub Pages
